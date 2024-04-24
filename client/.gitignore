@@ -1,0 +1,11 @@
+# Built files
+/build
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# Package lock file
+package-lock.json
